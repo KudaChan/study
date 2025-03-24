@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "104902b4c65cfc02",
+    "type": "split",
+    "children": [
+      {
+        "id": "574561409171133e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a90b2d885fcfcbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/TypeScript JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TypeScript JavaScript"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56a82806f89899b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c196f94dbd7e59ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f40fc48d4d91aed0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c8bccb367f76e404",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1ced1ad54abef3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b3dacad995b71b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b430e045817da2c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8af6ad15ba5cb319",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kafka & Zookeper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kafka & Zookeper"
+            }
+          },
+          {
+            "id": "3d6e9a11df64b0ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kafka & Zookeper.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kafka & Zookeper"
+            }
+          },
+          {
+            "id": "f42fdabcd02eb444",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fba1a0cbb63e6d36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kafka & Zookeper.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kafka & Zookeper"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a90b2d885fcfcbc",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Language/TypeScript JavaScript.md",
+    "DSA/Hash Map.md",
+    "Language",
+    "DSA/dsa-typescript/package-lock.json",
+    "DSA/package-lock.json",
+    "DSA/dsa-typescript/tree/bst/implementation.js",
+    "DSA/dsa-typescript/tree/bst",
+    "DSA/dsa-typescript/tree",
+    "DSA/dsa-typescript/step_question.js",
+    "DSA/dsa-typescript/stacks/implementation.js",
+    "DSA/dsa-typescript/stacks",
+    "DSA/dsa-typescript/spiral_matrix.js",
+    "DSA/dsa-typescript/heap/README.md",
+    "DSA/dsa-typescript/guide/sliding_window.md",
+    "DSA/dsa-typescript/guide/dutch_national_flag_algo.md",
+    "DSA/dsa-typescript/guide/amortized.md",
+    "DSA/dsa-typescript/guide/14_patterns.md",
+    "DSA/dsa-typescript/binarysearch/README.md",
+    "DSA/dsa-typescript/README.md",
+    "Untitled 1.md",
+    "LeetCode/001 Two Sum (Easy).md",
+    "Kafka & Zookeper.md"
+  ]
+}
